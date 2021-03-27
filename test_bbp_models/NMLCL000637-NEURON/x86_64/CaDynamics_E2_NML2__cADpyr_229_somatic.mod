@@ -1,0 +1,1 @@
+../CaDynamics_E2_NML2__cADpyr_229_somatic.mod
