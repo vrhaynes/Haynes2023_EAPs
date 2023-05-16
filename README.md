@@ -1,4 +1,4 @@
-# Haynes et al. 2022 
+# Haynes et al. 2023
 
 Scripts related to analysis of computational models at the NeuroML Database and EAP waveforms for neuron-type identification.
 
